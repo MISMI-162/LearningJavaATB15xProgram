@@ -12,6 +12,6 @@ public class Lab002_NineMultiplicationTable {
         System.out.printf("%d * 7 = %d\n", i,(i*7));
         System.out.printf("%d * 8 = %d\n", i,(i*8));
         System.out.printf("%d * 9 = %d\n", i,(i*9));
-        System.out.printf("%d * 10 = %d", i,(i*10));
+        System.out.printf("%d * 10 = %d\n", i,(i*10));
     }
 }
