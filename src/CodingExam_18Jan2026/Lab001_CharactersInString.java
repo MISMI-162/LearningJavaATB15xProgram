@@ -1,4 +1,4 @@
-package CodingExam_16Jan2026;
+package CodingExam_18Jan2026;
 import java.util.Scanner;
 public class Lab001_CharactersInString {
     /*1. WAP to count the total number of characters in a given string (excluding spaces).*/

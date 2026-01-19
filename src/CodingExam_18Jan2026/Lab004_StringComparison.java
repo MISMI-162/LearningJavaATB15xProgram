@@ -1,4 +1,4 @@
-package CodingExam_16Jan2026;
+package CodingExam_18Jan2026;
 import java.util.Scanner;
 public class Lab004_StringComparison {
         public static void main(String[] args) {

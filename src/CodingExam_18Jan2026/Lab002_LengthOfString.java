@@ -1,4 +1,4 @@
-package CodingExam_16Jan2026;
+package CodingExam_18Jan2026;
 import java.util.Scanner;
 public class Lab002_LengthOfString {
     /*WAP to check whether the length of a given string is greater than 10 or not and print the result.*/

@@ -1,4 +1,4 @@
-package CodingExam_16Jan2026;
+package CodingExam_18Jan2026;
 import java.util.Scanner;
 public class Lab003_CaseConversion {
     /*WAP to cconvert a given string into uppercase and print the result.*/
